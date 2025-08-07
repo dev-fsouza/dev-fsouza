@@ -1,6 +1,8 @@
 ## Fala Pessoal, tudo tranquilo?
 
-Sou Fernando Souza, 
+Sou Fernando Souza, iniciando na area da Programação!
+
+Aqui compartilharei meus projetos e objetivos!
 
 <!--
 **dev-fsouza/dev-fsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
