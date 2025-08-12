@@ -2,7 +2,6 @@
 <h3>I'm Fernando Bear</h3>
 A student and curious about the world of technology!<br>
 Hardware Support Analyst at Elgin/SA
-___________________________________________________
-Code: C#, .NET
-Database: MySQL
-Control Version: Git
+<br>Code: C#, .NET<br>
+Database: MySQL<br>
+Control Version: Git<br>
